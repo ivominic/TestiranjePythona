@@ -12,5 +12,5 @@ def crtajFiguru(brojTjemena, duzinaLinije):
             turtle.right(360 / brojTjemena)
     return
 
-
+#dodao komentar za testiranje git brancha
 crtajFiguru(13,100)
