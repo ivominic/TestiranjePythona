@@ -13,4 +13,5 @@ def crtajFiguru(brojTjemena, duzinaLinije):
     return
 
 #dodao komentar za testiranje git brancha
+#još jedan komentar
 crtajFiguru(13,100)
